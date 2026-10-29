@@ -1,0 +1,41 @@
+name: profile-stats
+
+# 每天把主页 README 的「最近在更新」区块刷新成最新数据，让个人主页始终是活的。
+# 提交者用账号本人的 noreply 邮箱，这样自动提交会计入贡献图。
+
+on:
+  schedule:
+    - cron: "13 4 * * *" # 每天 04:13 UTC / 12:13 北京时间
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: 渲染主页动态
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SCAN_OWNER: 123caiji
+        run: node scripts/profile-stats.mjs
+
+      - name: 提交变更
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          file_pattern: README.md
+          commit_message: "chore(profile): 刷新主页动态"
+          commit_user_name: 123caiji
+          commit_user_email: 166346449+123caiji@users.noreply.github.com
+          commit_author: 123caiji <166346449+123caiji@users.noreply.github.com>
