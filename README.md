@@ -9,6 +9,22 @@
   <img src="https://komarev.com/ghpvc/?username=123caiji&style=flat-square&color=2f81f7" alt="profile views" />
 </p>
 
+
+<!-- STATS:START -->
+
+**最近在更新**（2026-10-29 自动刷新）
+
+| 仓库 | 说明 | 最后更新 |
+| --- | --- | --- |
+| [security-research-toolkit](https://github.com/123caiji/security-research-toolkit) | Security Research Toolkit and HackSkills Knowledge Base - Authorized Penetration Testing, Bug Bounty, Web/API Security | 今天 |
+| [stm32-iot-smart-home](https://github.com/123caiji/stm32-iot-smart-home) | 基于 STM32 的物联网智能家居与环境监测项目集合:智能家居控制系统(STM32F103)、LoRa 环境监测网络、FreeRTOS 工程、电路图与元器件清单,附 IoT 平台从 0 到 1 构建指南笔记。 | 今天 |
+| [wulao](https://github.com/123caiji/wulao) | 中文大模型学习笔记:MLY 与大模型基础系列的图文深度总结、要点提炼与多轮验证版整理。个人学习总结,欢迎斧正。 | 今天 |
+| [123caiji.github.io](https://github.com/123caiji/123caiji.github.io) | 龙天彪的个人技术博客:AI / Agent 学习记录与开源项目笔记。Markdown 写作,Jekyll + GitHub Pages 自动发布。 | 今天 |
+| [kangyang-digital-twin](https://github.com/123caiji/kangyang-digital-twin) | kangyang-digital-twin graduation project | 今天 |
+
+<sub>公开仓库 28 个 · 自有项目 9 个 · star 合计 16 · 近 7 天提交 20 次</sub>
+
+<!-- STATS:END -->
 ## 我在做什么
 
 - **DeepSeek Harness（DSH）插件**：[dsh-live](https://github.com/123caiji/dsh-live) 会话现场驾驶舱、[dsh-memory-toolkit](https://github.com/123caiji/dsh-memory-toolkit) Agent 长期记忆与知识图谱
