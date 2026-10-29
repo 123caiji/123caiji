@@ -16,13 +16,13 @@
 
 | 仓库 | 说明 | 最后更新 |
 | --- | --- | --- |
+| [awesome-agent-security](https://github.com/123caiji/awesome-agent-security) | AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions. | 今天 |
+| [AI-LLM-Agent-Learning](https://github.com/123caiji/AI-LLM-Agent-Learning) | 中文 AI/LLM Agent 系统学习知识库:15 章从交互入口、MCP 协议、Agent 主体到构建自己的 Agent 全流程,附真实可运行的 LangGraph 实战项目。个人学习总结,欢迎斧正。 | 今天 |
+| [dsh-memory-toolkit](https://github.com/123caiji/dsh-memory-toolkit) | Memory and token-optimization plugin toolkit for DeepSeek Harness: cross-session knowledge graph memory + five-layer token-saving orchestration. | 今天 |
+| [dsh-live](https://github.com/123caiji/dsh-live) | Live cockpit for DeepSeek Harness: what this session is doing right now, what needs you, what it costs (host projection + right-sidebar panel). | 今天 |
 | [security-research-toolkit](https://github.com/123caiji/security-research-toolkit) | Security Research Toolkit and HackSkills Knowledge Base - Authorized Penetration Testing, Bug Bounty, Web/API Security | 今天 |
-| [stm32-iot-smart-home](https://github.com/123caiji/stm32-iot-smart-home) | 基于 STM32 的物联网智能家居与环境监测项目集合:智能家居控制系统(STM32F103)、LoRa 环境监测网络、FreeRTOS 工程、电路图与元器件清单,附 IoT 平台从 0 到 1 构建指南笔记。 | 今天 |
-| [wulao](https://github.com/123caiji/wulao) | 中文大模型学习笔记:MLY 与大模型基础系列的图文深度总结、要点提炼与多轮验证版整理。个人学习总结,欢迎斧正。 | 今天 |
-| [123caiji.github.io](https://github.com/123caiji/123caiji.github.io) | 龙天彪的个人技术博客:AI / Agent 学习记录与开源项目笔记。Markdown 写作,Jekyll + GitHub Pages 自动发布。 | 今天 |
-| [kangyang-digital-twin](https://github.com/123caiji/kangyang-digital-twin) | kangyang-digital-twin graduation project | 今天 |
 
-<sub>公开仓库 28 个 · 自有项目 9 个 · star 合计 16 · 近 7 天提交 20 次</sub>
+<sub>公开仓库 28 个 · 自有项目 9 个 · star 合计 16 · 近 7 天提交 25 次</sub>
 
 <!-- STATS:END -->
 ## 我在做什么
