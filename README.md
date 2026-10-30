@@ -16,13 +16,13 @@
 
 | 仓库 | 说明 | 最后更新 |
 | --- | --- | --- |
-| [123caiji](https://github.com/123caiji/123caiji) | GitHub profile README with live stats and an auto-generated contribution snake. | 今天 |
-| [ai-world](https://github.com/123caiji/ai-world) | AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源 | 今天 |
 | [awesome-agent-security](https://github.com/123caiji/awesome-agent-security) | AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions. | 今天 |
+| [ai-world](https://github.com/123caiji/ai-world) | AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源 | 今天 |
+| [123caiji](https://github.com/123caiji/123caiji) | GitHub profile README with live stats and an auto-generated contribution snake. | 今天 |
 | [stm32-iot-smart-home](https://github.com/123caiji/stm32-iot-smart-home) | 基于 STM32 的物联网智能家居与环境监测项目集合:智能家居控制系统(STM32F103)、LoRa 环境监测网络、FreeRTOS 工程、电路图与元器件清单,附 IoT 平台从 0 到 1 构建指南笔记。 | 今天 |
 | [kangyang-digital-twin](https://github.com/123caiji/kangyang-digital-twin) | kangyang-digital-twin graduation project | 今天 |
 
-<sub>公开仓库 34 个 · star 合计 16 · 关注者 4 · 近 7 天提交 79 次 · 近一年贡献 282 次</sub>
+<sub>公开仓库 34 个 · star 合计 17 · 关注者 4 · 近 7 天提交 83 次 · 近一年贡献 286 次</sub>
 
 <!-- STATS:END -->
 
