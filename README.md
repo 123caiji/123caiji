@@ -12,17 +12,17 @@
 
 <!-- STATS:START -->
 
-**最近在更新**（2026-10-29 自动刷新）
+**最近在更新**（2026-10-30 自动刷新）
 
 | 仓库 | 说明 | 最后更新 |
 | --- | --- | --- |
+| [ai-world](https://github.com/123caiji/ai-world) | AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，每小时自动采集，每条都带可核验来源 | 今天 |
 | [awesome-agent-security](https://github.com/123caiji/awesome-agent-security) | AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions. | 今天 |
+| [stm32-iot-smart-home](https://github.com/123caiji/stm32-iot-smart-home) | 基于 STM32 的物联网智能家居与环境监测项目集合:智能家居控制系统(STM32F103)、LoRa 环境监测网络、FreeRTOS 工程、电路图与元器件清单,附 IoT 平台从 0 到 1 构建指南笔记。 | 今天 |
+| [kangyang-digital-twin](https://github.com/123caiji/kangyang-digital-twin) | kangyang-digital-twin graduation project | 今天 |
 | [AI-LLM-Agent-Learning](https://github.com/123caiji/AI-LLM-Agent-Learning) | 中文 AI/LLM Agent 系统学习知识库:15 章从交互入口、MCP 协议、Agent 主体到构建自己的 Agent 全流程,附真实可运行的 LangGraph 实战项目。个人学习总结,欢迎斧正。 | 今天 |
-| [dsh-memory-toolkit](https://github.com/123caiji/dsh-memory-toolkit) | Memory and token-optimization plugin toolkit for DeepSeek Harness: cross-session knowledge graph memory + five-layer token-saving orchestration. | 今天 |
-| [dsh-live](https://github.com/123caiji/dsh-live) | Live cockpit for DeepSeek Harness: what this session is doing right now, what needs you, what it costs (host projection + right-sidebar panel). | 今天 |
-| [security-research-toolkit](https://github.com/123caiji/security-research-toolkit) | Security Research Toolkit and HackSkills Knowledge Base - Authorized Penetration Testing, Bug Bounty, Web/API Security | 今天 |
 
-<sub>公开仓库 28 个 · 自有项目 9 个 · star 合计 16 · 近 7 天提交 25 次</sub>
+<sub>公开仓库 29 个 · 自有项目 10 个 · star 合计 16 · 近 7 天提交 69 次</sub>
 
 <!-- STATS:END -->
 ## 我在做什么
