@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-30T10:50:03.027Z",
+  "generatedAt": "2026-10-31T05:11:42.969Z",
   "login": "123caiji",
   "name": "龙天彪",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
-  "followers": 4,
+  "followers": 5,
   "following": 7,
   "repos": 34,
   "stars": 17,
   "forks": 1,
-  "commits7": 83,
-  "commits30": 89,
-  "totalContributions": 286,
-  "commitsYear": 232,
+  "commits7": 93,
+  "commits30": 99,
+  "totalContributions": 296,
+  "commitsYear": 242,
   "prsYear": 11,
   "issuesYear": 14,
   "calendar": {
     "colors": [
-      "#9be9a8",
-      "#40c463",
-      "#30a14e",
-      "#216e39"
+      "#ffee4a",
+      "#ffc501",
+      "#fe9600",
+      "#03001c"
     ],
     "weeks": [
       [
@@ -1605,7 +1605,11 @@
         ],
         [
           "2026-10-30",
-          31
+          37
+        ],
+        [
+          "2026-10-31",
+          4
         ]
       ]
     ]
@@ -1649,15 +1653,7 @@
       "name": "awesome-agent-security",
       "full": "123caiji/awesome-agent-security",
       "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
-      "pushedAt": "2026-10-30T09:58:33Z",
-      "stars": 0,
-      "lang": "JavaScript"
-    },
-    {
-      "name": "ai-world",
-      "full": "123caiji/ai-world",
-      "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-10-30T08:43:44Z",
+      "pushedAt": "2026-10-31T05:11:19Z",
       "stars": 0,
       "lang": "JavaScript"
     },
@@ -1665,25 +1661,33 @@
       "name": "123caiji",
       "full": "123caiji/123caiji",
       "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
-      "pushedAt": "2026-10-30T08:34:15Z",
+      "pushedAt": "2026-10-31T03:41:42Z",
       "stars": 0,
       "lang": "JavaScript"
     },
     {
-      "name": "stm32-iot-smart-home",
-      "full": "123caiji/stm32-iot-smart-home",
-      "desc": "基于 STM32 的物联网智能家居与环境监测项目集合:智能家居控制系统(STM32F103)、LoRa 环境监测网络、FreeRTOS 工程、电路图与元器件清单,附 IoT 平台从 0 到 1 构建指南笔记。",
-      "pushedAt": "2026-10-29T12:36:30Z",
-      "stars": 2,
-      "lang": null
+      "name": "ai-world",
+      "full": "123caiji/ai-world",
+      "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
+      "pushedAt": "2026-10-31T03:34:10Z",
+      "stars": 0,
+      "lang": "JavaScript"
     },
     {
       "name": "kangyang-digital-twin",
       "full": "123caiji/kangyang-digital-twin",
       "desc": "kangyang-digital-twin graduation project",
-      "pushedAt": "2026-10-29T12:32:42Z",
+      "pushedAt": "2026-10-30T12:47:00Z",
       "stars": 0,
       "lang": "Vue"
+    },
+    {
+      "name": "dsh-memory-toolkit",
+      "full": "123caiji/dsh-memory-toolkit",
+      "desc": "Memory and token-optimization plugin toolkit for DeepSeek Harness: cross-session knowledge graph memory + five-layer token-saving orchestration.",
+      "pushedAt": "2026-10-30T12:46:54Z",
+      "stars": 4,
+      "lang": "TypeScript"
     }
   ]
 }
