@@ -17,12 +17,12 @@
 | 仓库 | 说明 | 最后更新 |
 | --- | --- | --- |
 | [awesome-agent-security](https://github.com/123caiji/awesome-agent-security) | AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions. | 今天 |
-| [123caiji](https://github.com/123caiji/123caiji) | GitHub profile README with live stats and an auto-generated contribution snake. | 今天 |
 | [ai-world](https://github.com/123caiji/ai-world) | AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源 | 今天 |
+| [123caiji](https://github.com/123caiji/123caiji) | GitHub profile README with live stats and an auto-generated contribution snake. | 今天 |
 | [kangyang-digital-twin](https://github.com/123caiji/kangyang-digital-twin) | kangyang-digital-twin graduation project | 今天 |
 | [dsh-memory-toolkit](https://github.com/123caiji/dsh-memory-toolkit) | Memory and token-optimization plugin toolkit for DeepSeek Harness: cross-session knowledge graph memory + five-layer token-saving orchestration. | 今天 |
 
-<sub>公开仓库 34 个 · star 合计 17 · 关注者 5 · 近 7 天提交 93 次 · 近一年贡献 296 次</sub>
+<sub>公开仓库 34 个 · star 合计 17 · 关注者 5 · 近 7 天提交 98 次 · 近一年贡献 301 次</sub>
 
 <!-- STATS:END -->
 
