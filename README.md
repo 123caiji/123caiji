@@ -12,7 +12,7 @@
 
 <!-- STATS:START -->
 
-**最近在更新**（2026-10-31 自动刷新）
+**最近在更新**（2026-11-01 自动刷新）
 
 | 仓库 | 说明 | 最后更新 |
 | --- | --- | --- |
@@ -22,7 +22,7 @@
 | [kangyang-digital-twin](https://github.com/123caiji/kangyang-digital-twin) | kangyang-digital-twin graduation project | 今天 |
 | [dsh-memory-toolkit](https://github.com/123caiji/dsh-memory-toolkit) | Memory and token-optimization plugin toolkit for DeepSeek Harness: cross-session knowledge graph memory + five-layer token-saving orchestration. | 今天 |
 
-<sub>公开仓库 34 个 · star 合计 17 · 关注者 5 · 近 7 天提交 98 次 · 近一年贡献 301 次</sub>
+<sub>公开仓库 34 个 · star 合计 17 · 关注者 5 · 近 7 天提交 117 次 · 近一年贡献 314 次</sub>
 
 <!-- STATS:END -->
 
