@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T12:18:03.000Z",
+  "generatedAt": "2026-11-03T11:52:35.531Z",
   "login": "123caiji",
   "name": "123caiji",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
@@ -8,10 +8,10 @@
   "repos": 34,
   "stars": 17,
   "forks": 1,
-  "commits7": 136,
-  "commits30": 142,
-  "totalContributions": 333,
-  "commitsYear": 279,
+  "commits7": 148,
+  "commits30": 154,
+  "totalContributions": 345,
+  "commitsYear": 291,
   "prsYear": 11,
   "issuesYear": 14,
   "calendar": {
@@ -1589,7 +1589,11 @@
         ],
         [
           "2026-11-02",
-          6
+          11
+        ],
+        [
+          "2026-11-03",
+          7
         ]
       ]
     ]
@@ -1630,18 +1634,18 @@
   ],
   "recent": [
     {
-      "name": "awesome-agent-security",
-      "full": "123caiji/awesome-agent-security",
-      "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
-      "pushedAt": "2026-11-02T11:00:08Z",
+      "name": "ai-world",
+      "full": "123caiji/ai-world",
+      "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
+      "pushedAt": "2026-11-03T11:39:43Z",
       "stars": 0,
       "lang": "JavaScript"
     },
     {
-      "name": "ai-world",
-      "full": "123caiji/ai-world",
-      "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-11-02T10:48:29Z",
+      "name": "awesome-agent-security",
+      "full": "123caiji/awesome-agent-security",
+      "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
+      "pushedAt": "2026-11-03T10:49:53Z",
       "stars": 0,
       "lang": "JavaScript"
     },
@@ -1649,7 +1653,7 @@
       "name": "123caiji",
       "full": "123caiji/123caiji",
       "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
-      "pushedAt": "2026-11-02T03:53:32Z",
+      "pushedAt": "2026-11-03T04:55:31Z",
       "stars": 0,
       "lang": "JavaScript"
     },
