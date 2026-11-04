@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-03T11:52:35.531Z",
+  "generatedAt": "2026-11-04T12:02:44.799Z",
   "login": "123caiji",
   "name": "123caiji",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
   "followers": 5,
   "following": 7,
-  "repos": 34,
-  "stars": 17,
+  "repos": 36,
+  "stars": 21,
   "forks": 1,
-  "commits7": 148,
-  "commits30": 154,
-  "totalContributions": 345,
-  "commitsYear": 291,
+  "commits7": 172,
+  "commits30": 184,
+  "totalContributions": 358,
+  "commitsYear": 302,
   "prsYear": 11,
   "issuesYear": 14,
   "calendar": {
@@ -1593,7 +1593,11 @@
         ],
         [
           "2026-11-03",
-          7
+          12
+        ],
+        [
+          "2026-11-04",
+          8
         ]
       ]
     ]
@@ -1601,77 +1605,77 @@
   "languages": [
     {
       "name": "JavaScript",
-      "pct": 47.531592097693846
+      "pct": 38.88948444356769
     },
     {
       "name": "Python",
-      "pct": 21.070415077527198
-    },
-    {
-      "name": "TypeScript",
-      "pct": 10.495503208499464
-    },
-    {
-      "name": "CSS",
-      "pct": 10.071525076505019
-    },
-    {
-      "name": "Vue",
-      "pct": 5.219560350173345
+      "pct": 23.306489437525386
     },
     {
       "name": "HTML",
-      "pct": 5.038165335380026
+      "pct": 13.783324205792658
+    },
+    {
+      "name": "TypeScript",
+      "pct": 8.587229897863198
+    },
+    {
+      "name": "CSS",
+      "pct": 8.240338698958652
+    },
+    {
+      "name": "Vue",
+      "pct": 4.270549377414555
+    },
+    {
+      "name": "Shell",
+      "pct": 2.351875972004035
     },
     {
       "name": "PowerShell",
-      "pct": 0.3279198320954019
-    },
-    {
-      "name": "SCSS",
-      "pct": 0.24531902212568718
+      "pct": 0.2682980444416924
     }
   ],
   "recent": [
     {
-      "name": "ai-world",
-      "full": "123caiji/ai-world",
-      "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-11-03T11:39:43Z",
-      "stars": 0,
-      "lang": "JavaScript"
-    },
-    {
       "name": "awesome-agent-security",
       "full": "123caiji/awesome-agent-security",
       "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
-      "pushedAt": "2026-11-03T10:49:53Z",
-      "stars": 0,
+      "pushedAt": "2026-11-04T10:53:07Z",
+      "stars": 1,
       "lang": "JavaScript"
+    },
+    {
+      "name": "ai-world",
+      "full": "123caiji/ai-world",
+      "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
+      "pushedAt": "2026-11-04T09:54:21Z",
+      "stars": 1,
+      "lang": "JavaScript"
+    },
+    {
+      "name": "sapper-v2",
+      "full": "123caiji/sapper-v2",
+      "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph (copy of N1nEmAn/sapper-v2)",
+      "pushedAt": "2026-11-04T08:36:40Z",
+      "stars": 0,
+      "lang": "Python"
+    },
+    {
+      "name": "agens-harness",
+      "full": "123caiji/agens-harness",
+      "desc": "Agensh: Scaling Organizational Intelligence to 1,024 Agents (copy of agens-harness/project)",
+      "pushedAt": "2026-11-04T08:34:51Z",
+      "stars": 0,
+      "lang": "HTML"
     },
     {
       "name": "123caiji",
       "full": "123caiji/123caiji",
       "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
-      "pushedAt": "2026-11-03T04:55:31Z",
+      "pushedAt": "2026-11-04T04:26:49Z",
       "stars": 0,
       "lang": "JavaScript"
-    },
-    {
-      "name": "kangyang-digital-twin",
-      "full": "123caiji/kangyang-digital-twin",
-      "desc": "kangyang-digital-twin graduation project",
-      "pushedAt": "2026-10-31T11:46:01Z",
-      "stars": 0,
-      "lang": "Vue"
-    },
-    {
-      "name": "dsh-memory-toolkit",
-      "full": "123caiji/dsh-memory-toolkit",
-      "desc": "Memory and token-optimization plugin toolkit for DeepSeek Harness: cross-session knowledge graph memory + five-layer token-saving orchestration.",
-      "pushedAt": "2026-10-31T11:37:40Z",
-      "stars": 4,
-      "lang": "TypeScript"
     }
   ]
 }
