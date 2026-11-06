@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T12:14:15.354Z",
+  "generatedAt": "2026-11-06T12:02:21.765Z",
   "login": "123caiji",
   "name": "123caiji",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
@@ -8,10 +8,10 @@
   "repos": 38,
   "stars": 21,
   "forks": 1,
-  "commits7": 357,
-  "commits30": 396,
-  "totalContributions": 372,
-  "commitsYear": 314,
+  "commits7": 311,
+  "commits30": 408,
+  "totalContributions": 384,
+  "commitsYear": 326,
   "prsYear": 11,
   "issuesYear": 14,
   "calendar": {
@@ -1601,7 +1601,11 @@
         ],
         [
           "2026-11-05",
-          10
+          16
+        ],
+        [
+          "2026-11-06",
+          6
         ]
       ]
     ]
@@ -1645,8 +1649,24 @@
       "name": "awesome-agent-security",
       "full": "123caiji/awesome-agent-security",
       "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
-      "pushedAt": "2026-11-05T10:52:12Z",
+      "pushedAt": "2026-11-06T10:50:01Z",
       "stars": 1,
+      "lang": "JavaScript"
+    },
+    {
+      "name": "ai-world",
+      "full": "123caiji/ai-world",
+      "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
+      "pushedAt": "2026-11-06T10:33:32Z",
+      "stars": 1,
+      "lang": "JavaScript"
+    },
+    {
+      "name": "123caiji",
+      "full": "123caiji/123caiji",
+      "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
+      "pushedAt": "2026-11-06T04:41:32Z",
+      "stars": 0,
       "lang": "JavaScript"
     },
     {
@@ -1664,22 +1684,6 @@
       "pushedAt": "2026-11-05T10:07:50Z",
       "stars": 0,
       "lang": "TypeScript"
-    },
-    {
-      "name": "ai-world",
-      "full": "123caiji/ai-world",
-      "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-11-05T09:43:11Z",
-      "stars": 1,
-      "lang": "JavaScript"
-    },
-    {
-      "name": "craft-anything",
-      "full": "123caiji/craft-anything",
-      "desc": "Mirror of storytold/craft-anything",
-      "pushedAt": "2026-11-05T09:36:09Z",
-      "stars": 0,
-      "lang": "Rust"
     }
   ]
 }
