@@ -12,17 +12,17 @@
 
 <!-- STATS:START -->
 
-**最近在更新**（2026-11-06 自动刷新）
+**最近在更新**（2026-11-07 自动刷新）
 
 | 仓库 | 说明 | 最后更新 |
 | --- | --- | --- |
 | [awesome-agent-security](https://github.com/123caiji/awesome-agent-security) | AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions. | 今天 |
 | [ai-world](https://github.com/123caiji/ai-world) | AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源 | 今天 |
 | [123caiji](https://github.com/123caiji/123caiji) | GitHub profile README with live stats and an auto-generated contribution snake. | 今天 |
-| [agens-harness](https://github.com/123caiji/agens-harness) | 镜像：Agensh 论文项目页（arXiv:2609.26781，Microsoft Research），非原作者仓库 | 昨天 |
-| [rea](https://github.com/123caiji/rea) | Mirror of morluto/rea | 昨天 |
+| [agens-harness](https://github.com/123caiji/agens-harness) | 镜像：Agensh 论文项目页（arXiv:2609.26781，Microsoft Research），非原作者仓库 | 2 天前 |
+| [rea](https://github.com/123caiji/rea) | Mirror of morluto/rea | 2 天前 |
 
-<sub>公开仓库 38 个 · star 合计 21 · 关注者 5 · 近 7 天提交 311 次 · 近一年贡献 384 次</sub>
+<sub>公开仓库 38 个 · star 合计 21 · 关注者 5 · 近 7 天提交 309 次 · 近一年贡献 397 次</sub>
 
 <!-- STATS:END -->
 
