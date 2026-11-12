@@ -1,4 +1,4 @@
-<h1 align="center">你好，我是 123caiji <code>123caiji</code></h1>
+<h1 align="center">你好，我是 <a href="https://github.com/123caiji">123caiji</a></h1>
 <p align="center">
   <em>AI Agent 工程 · 安全研究 · DeepSeek Harness 插件开发</em>
 </p>

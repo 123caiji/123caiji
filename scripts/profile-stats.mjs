@@ -82,8 +82,8 @@ function cardsBlock () {
 
 async function main () {
   const data = await collectData({ owner: OWNER, token: TOKEN })
-  // 账号显示名与登录名相同时，用个人主页上的中文名（可用 DISPLAY_NAME 覆盖）
-  if (!data.name || data.name === data.login) data.name = process.env.DISPLAY_NAME || '123caiji'
+  // 显示名一律用 GitHub 登录名，不用真实姓名（如需别名，用 DISPLAY_NAME 覆盖）
+  if (!data.name || data.name === data.login) data.name = process.env.DISPLAY_NAME || data.login || '123caiji'
   console.log(`数据：仓库 ${data.repos} · star ${data.stars} · 关注者 ${data.followers} · 近一年贡献 ${data.totalContributions}`)
 
   mkdirSync('data', { recursive: true })
