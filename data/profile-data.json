@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T05:10:49.733Z",
+  "generatedAt": "2026-11-12T12:37:10.165Z",
   "login": "123caiji",
   "name": "123caiji",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
@@ -8,10 +8,10 @@
   "repos": 43,
   "stars": 21,
   "forks": 1,
-  "commits7": 138,
-  "commits30": 435,
-  "totalContributions": 564,
-  "commitsYear": 501,
+  "commits7": 105,
+  "commits30": 447,
+  "totalContributions": 629,
+  "commitsYear": 567,
   "prsYear": 11,
   "issuesYear": 14,
   "calendar": {
@@ -1091,7 +1091,7 @@
         ],
         [
           "2026-07-16",
-          7
+          12
         ],
         [
           "2026-07-17",
@@ -1125,7 +1125,7 @@
         ],
         [
           "2026-07-24",
-          2
+          8
         ],
         [
           "2026-07-25",
@@ -1409,11 +1409,11 @@
         ],
         [
           "2026-09-28",
-          8
+          20
         ],
         [
           "2026-09-29",
-          12
+          26
         ],
         [
           "2026-09-30",
@@ -1541,15 +1541,15 @@
         ],
         [
           "2026-10-29",
-          95
+          102
         ],
         [
           "2026-10-30",
-          51
+          46
         ],
         [
           "2026-10-31",
-          25
+          31
         ]
       ],
       [
@@ -1601,7 +1601,7 @@
         ],
         [
           "2026-11-12",
-          22
+          42
         ]
       ]
     ]
@@ -1609,35 +1609,35 @@
   "languages": [
     {
       "name": "JavaScript",
-      "pct": 33.33894516305544
+      "pct": 33.34337983182958
     },
     {
       "name": "Python",
-      "pct": 19.818302593149937
+      "pct": 19.814771828518666
     },
     {
       "name": "TypeScript",
-      "pct": 14.230542405277097
+      "pct": 14.230542405277093
     },
     {
       "name": "HTML",
-      "pct": 11.769248355515947
+      "pct": 11.769188069923795
     },
     {
       "name": "Rust",
-      "pct": 7.602270167738349
+      "pct": 7.602270167738348
     },
     {
       "name": "CSS",
-      "pct": 6.966579300739031
+      "pct": 6.967541129134312
     },
     {
       "name": "Vue",
-      "pct": 3.613541780889239
+      "pct": 3.611175077486571
     },
     {
       "name": "Shell",
-      "pct": 2.036777603528043
+      "pct": 2.0367776035280425
     }
   ],
   "recent": [
@@ -1645,41 +1645,41 @@
       "name": "awesome-agent-security",
       "full": "123caiji/awesome-agent-security",
       "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
-      "pushedAt": "2026-11-12T05:10:06Z",
+      "pushedAt": "2026-11-12T11:02:32Z",
       "stars": 1,
       "lang": "JavaScript"
-    },
-    {
-      "name": "security-research-toolkit",
-      "full": "123caiji/security-research-toolkit",
-      "desc": "Security Research Toolkit and HackSkills Knowledge Base - Authorized Penetration Testing, Bug Bounty, Web/API Security",
-      "pushedAt": "2026-11-12T05:09:38Z",
-      "stars": 2,
-      "lang": "Python"
-    },
-    {
-      "name": "123caiji",
-      "full": "123caiji/123caiji",
-      "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
-      "pushedAt": "2026-11-12T05:08:44Z",
-      "stars": 0,
-      "lang": "JavaScript"
-    },
-    {
-      "name": "123caiji.github.io",
-      "full": "123caiji/123caiji.github.io",
-      "desc": "AI / Agent 学习记录与开源项目笔记。Markdown 写作，Jekyll + GitHub Pages 自动发布。",
-      "pushedAt": "2026-11-12T05:07:53Z",
-      "stars": 0,
-      "lang": "CSS"
     },
     {
       "name": "ai-world",
       "full": "123caiji/ai-world",
       "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-11-12T04:45:39Z",
+      "pushedAt": "2026-11-12T09:51:37Z",
       "stars": 1,
       "lang": "JavaScript"
+    },
+    {
+      "name": "rea",
+      "full": "123caiji/rea",
+      "desc": "Mirror of morluto/rea",
+      "pushedAt": "2026-11-12T07:29:23Z",
+      "stars": 0,
+      "lang": "TypeScript"
+    },
+    {
+      "name": "kangyang-digital-twin",
+      "full": "123caiji/kangyang-digital-twin",
+      "desc": "kangyang-digital-twin graduation project",
+      "pushedAt": "2026-11-12T06:31:20Z",
+      "stars": 1,
+      "lang": "Vue"
+    },
+    {
+      "name": "security-research-toolkit",
+      "full": "123caiji/security-research-toolkit",
+      "desc": "Security Research Toolkit and HackSkills Knowledge Base - Authorized Penetration Testing, Bug Bounty, Web/API Security",
+      "pushedAt": "2026-11-12T06:20:06Z",
+      "stars": 2,
+      "lang": "Python"
     }
   ]
 }
