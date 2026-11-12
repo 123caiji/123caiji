@@ -10,6 +10,12 @@ on:
 permissions:
   contents: write
 
+# push 触发和 schedule 触发可能同时到达，两者都写 output 分支；
+# 串行化，别让后到的 run 覆盖前一环刚推好的结果。
+concurrency:
+  group: snake
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
