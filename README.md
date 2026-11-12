@@ -16,13 +16,13 @@
 
 | 仓库 | 说明 | 最后更新 |
 | --- | --- | --- |
-| [123caiji](https://github.com/123caiji/123caiji) | GitHub profile README with live stats and an auto-generated contribution snake. | 今天 |
 | [awesome-agent-security](https://github.com/123caiji/awesome-agent-security) | AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions. | 今天 |
+| [security-research-toolkit](https://github.com/123caiji/security-research-toolkit) | Security Research Toolkit and HackSkills Knowledge Base - Authorized Penetration Testing, Bug Bounty, Web/API Security | 今天 |
+| [123caiji](https://github.com/123caiji/123caiji) | GitHub profile README with live stats and an auto-generated contribution snake. | 今天 |
+| [123caiji.github.io](https://github.com/123caiji/123caiji.github.io) | AI / Agent 学习记录与开源项目笔记。Markdown 写作，Jekyll + GitHub Pages 自动发布。 | 今天 |
 | [ai-world](https://github.com/123caiji/ai-world) | AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源 | 今天 |
-| [agens-harness](https://github.com/123caiji/agens-harness) | 镜像：Agensh 论文项目页（arXiv:2609.26781，Microsoft Research），非原作者仓库 | 6 天前 |
-| [rea](https://github.com/123caiji/rea) | Mirror of morluto/rea | 6 天前 |
 
-<sub>公开仓库 43 个 · star 合计 21 · 关注者 5 · 近 7 天提交 128 次 · 近一年贡献 456 次</sub>
+<sub>公开仓库 43 个 · star 合计 21 · 关注者 5 · 近 7 天提交 138 次 · 近一年贡献 564 次</sub>
 
 <!-- STATS:END -->
 

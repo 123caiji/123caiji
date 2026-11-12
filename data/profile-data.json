@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T04:07:19.340Z",
+  "generatedAt": "2026-11-12T05:10:49.733Z",
   "login": "123caiji",
   "name": "123caiji",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
@@ -8,10 +8,10 @@
   "repos": 43,
   "stars": 21,
   "forks": 1,
-  "commits7": 128,
-  "commits30": 430,
-  "totalContributions": 456,
-  "commitsYear": 394,
+  "commits7": 138,
+  "commits30": 435,
+  "totalContributions": 564,
+  "commitsYear": 501,
   "prsYear": 11,
   "issuesYear": 14,
   "calendar": {
@@ -1091,7 +1091,7 @@
         ],
         [
           "2026-07-16",
-          4
+          7
         ],
         [
           "2026-07-17",
@@ -1349,7 +1349,7 @@
         ],
         [
           "2026-09-14",
-          8
+          10
         ],
         [
           "2026-09-15",
@@ -1541,67 +1541,67 @@
         ],
         [
           "2026-10-29",
-          68
+          95
         ],
         [
           "2026-10-30",
-          37
+          51
         ],
         [
           "2026-10-31",
-          19
+          25
         ]
       ],
       [
         [
           "2026-11-01",
-          16
+          22
         ],
         [
           "2026-11-02",
-          11
+          14
         ],
         [
           "2026-11-03",
-          12
+          15
         ],
         [
           "2026-11-04",
-          12
+          15
         ],
         [
           "2026-11-05",
-          16
+          20
         ],
         [
           "2026-11-06",
-          11
+          14
         ],
         [
           "2026-11-07",
-          14
+          19
         ]
       ],
       [
         [
           "2026-11-08",
-          12
+          15
         ],
         [
           "2026-11-09",
-          11
+          14
         ],
         [
           "2026-11-10",
-          12
+          15
         ],
         [
           "2026-11-11",
-          16
+          19
         ],
         [
           "2026-11-12",
-          5
+          22
         ]
       ]
     ]
@@ -1609,7 +1609,7 @@
   "languages": [
     {
       "name": "JavaScript",
-      "pct": 33.33069712951726
+      "pct": 33.33894516305544
     },
     {
       "name": "Python",
@@ -1621,7 +1621,7 @@
     },
     {
       "name": "HTML",
-      "pct": 11.76385934229636
+      "pct": 11.769248355515947
     },
     {
       "name": "Rust",
@@ -1629,7 +1629,7 @@
     },
     {
       "name": "CSS",
-      "pct": 6.9802163474968095
+      "pct": 6.966579300739031
     },
     {
       "name": "Vue",
@@ -1642,44 +1642,44 @@
   ],
   "recent": [
     {
+      "name": "awesome-agent-security",
+      "full": "123caiji/awesome-agent-security",
+      "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
+      "pushedAt": "2026-11-12T05:10:06Z",
+      "stars": 1,
+      "lang": "JavaScript"
+    },
+    {
+      "name": "security-research-toolkit",
+      "full": "123caiji/security-research-toolkit",
+      "desc": "Security Research Toolkit and HackSkills Knowledge Base - Authorized Penetration Testing, Bug Bounty, Web/API Security",
+      "pushedAt": "2026-11-12T05:09:38Z",
+      "stars": 2,
+      "lang": "Python"
+    },
+    {
       "name": "123caiji",
       "full": "123caiji/123caiji",
       "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
-      "pushedAt": "2026-11-12T04:06:18Z",
+      "pushedAt": "2026-11-12T05:08:44Z",
       "stars": 0,
       "lang": "JavaScript"
     },
     {
-      "name": "awesome-agent-security",
-      "full": "123caiji/awesome-agent-security",
-      "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
-      "pushedAt": "2026-11-12T04:05:15Z",
-      "stars": 1,
-      "lang": "JavaScript"
+      "name": "123caiji.github.io",
+      "full": "123caiji/123caiji.github.io",
+      "desc": "AI / Agent 学习记录与开源项目笔记。Markdown 写作，Jekyll + GitHub Pages 自动发布。",
+      "pushedAt": "2026-11-12T05:07:53Z",
+      "stars": 0,
+      "lang": "CSS"
     },
     {
       "name": "ai-world",
       "full": "123caiji/ai-world",
       "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-11-12T03:51:41Z",
+      "pushedAt": "2026-11-12T04:45:39Z",
       "stars": 1,
       "lang": "JavaScript"
-    },
-    {
-      "name": "agens-harness",
-      "full": "123caiji/agens-harness",
-      "desc": "镜像：Agensh 论文项目页（arXiv:2609.26781，Microsoft Research），非原作者仓库",
-      "pushedAt": "2026-11-05T10:26:42Z",
-      "stars": 0,
-      "lang": "HTML"
-    },
-    {
-      "name": "rea",
-      "full": "123caiji/rea",
-      "desc": "Mirror of morluto/rea",
-      "pushedAt": "2026-11-05T10:07:50Z",
-      "stars": 0,
-      "lang": "TypeScript"
     }
   ]
 }
