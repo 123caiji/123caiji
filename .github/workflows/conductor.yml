@@ -1,0 +1,48 @@
+name: conductor
+
+# schedule 触发器实测稳定迟到约 6 小时，这里做幂等补派：
+# 今天该跑的工作流只要既没有 success、也没有在跑/排队，就补派一次。
+on:
+  schedule:
+    - cron: "27 * * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: conductor
+  cancel-in-progress: false
+
+jobs:
+  ensure:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 补齐今天该跑而没跑成的任务
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -uo pipefail
+          day=$(date -u +%F)
+          active_of() {
+            gh api "/repos/${REPO}/actions/workflows/${1}/runs?per_page=20" \
+              --jq '[.workflow_runs[] | select(.status=="in_progress" or .status=="queued" or .status=="waiting" or .status=="pending" or .status=="requested")] | length'
+          }
+          ok_today() {
+            gh api "/repos/${REPO}/actions/workflows/${1}/runs?created=>=${day}T00:00:00Z&per_page=50" \
+              --jq '[.workflow_runs[] | select(.status=="completed" and .conclusion=="success")] | length'
+          }
+          need() {
+            wf=$1
+            ok=$(ok_today "$wf")
+            a=$(active_of "$wf")
+            echo "$wf: success_today=$ok active=$a"
+            if [ "$ok" = "0" ] && [ "$a" = "0" ]; then
+              gh workflow run "$wf" --repo "$REPO" && echo "dispatched $wf"
+            fi
+          }
+          need profile-stats.yml
+          # snake 由 push 触发更频繁，这里只是兜底
+          need snake.yml
