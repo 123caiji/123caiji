@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T12:37:10.165Z",
+  "generatedAt": "2026-11-13T02:01:55.257Z",
   "login": "123caiji",
   "name": "123caiji",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
@@ -8,10 +8,10 @@
   "repos": 43,
   "stars": 21,
   "forks": 1,
-  "commits7": 105,
-  "commits30": 447,
-  "totalContributions": 629,
-  "commitsYear": 567,
+  "commits7": 109,
+  "commits30": 450,
+  "totalContributions": 637,
+  "commitsYear": 575,
   "prsYear": 11,
   "issuesYear": 14,
   "calendar": {
@@ -1601,7 +1601,11 @@
         ],
         [
           "2026-11-12",
-          42
+          48
+        ],
+        [
+          "2026-11-13",
+          2
         ]
       ]
     ]
@@ -1645,7 +1649,7 @@
       "name": "awesome-agent-security",
       "full": "123caiji/awesome-agent-security",
       "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
-      "pushedAt": "2026-11-12T11:02:32Z",
+      "pushedAt": "2026-11-13T01:49:59Z",
       "stars": 1,
       "lang": "JavaScript"
     },
@@ -1653,8 +1657,16 @@
       "name": "ai-world",
       "full": "123caiji/ai-world",
       "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-11-12T09:51:37Z",
+      "pushedAt": "2026-11-12T23:43:07Z",
       "stars": 1,
+      "lang": "JavaScript"
+    },
+    {
+      "name": "123caiji",
+      "full": "123caiji/123caiji",
+      "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
+      "pushedAt": "2026-11-12T19:25:39Z",
+      "stars": 0,
       "lang": "JavaScript"
     },
     {
@@ -1672,14 +1684,6 @@
       "pushedAt": "2026-11-12T06:31:20Z",
       "stars": 1,
       "lang": "Vue"
-    },
-    {
-      "name": "security-research-toolkit",
-      "full": "123caiji/security-research-toolkit",
-      "desc": "Security Research Toolkit and HackSkills Knowledge Base - Authorized Penetration Testing, Bug Bounty, Web/API Security",
-      "pushedAt": "2026-11-12T06:20:06Z",
-      "stars": 2,
-      "lang": "Python"
     }
   ]
 }
