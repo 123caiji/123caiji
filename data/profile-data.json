@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:40:30.354Z",
+  "generatedAt": "2026-11-17T04:43:44.473Z",
   "login": "123caiji",
   "name": "123caiji",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
@@ -9,9 +9,9 @@
   "stars": 22,
   "forks": 1,
   "commits7": 117,
-  "commits30": 468,
-  "totalContributions": 661,
-  "commitsYear": 612,
+  "commits30": 469,
+  "totalContributions": 668,
+  "commitsYear": 619,
   "prsYear": 9,
   "issuesYear": 2,
   "calendar": {
@@ -1589,7 +1589,11 @@
         ],
         [
           "2026-11-16",
-          10
+          15
+        ],
+        [
+          "2026-11-17",
+          2
         ]
       ]
     ]
@@ -1630,18 +1634,10 @@
   ],
   "recent": [
     {
-      "name": "awesome-agent-security",
-      "full": "123caiji/awesome-agent-security",
-      "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
-      "pushedAt": "2026-11-16T11:12:28Z",
-      "stars": 1,
-      "lang": "JavaScript"
-    },
-    {
       "name": "ai-world",
       "full": "123caiji/ai-world",
       "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-11-16T10:36:26Z",
+      "pushedAt": "2026-11-17T03:10:01Z",
       "stars": 2,
       "lang": "JavaScript"
     },
@@ -1649,8 +1645,16 @@
       "name": "123caiji",
       "full": "123caiji/123caiji",
       "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
-      "pushedAt": "2026-11-16T04:19:46Z",
+      "pushedAt": "2026-11-16T21:31:02Z",
       "stars": 0,
+      "lang": "JavaScript"
+    },
+    {
+      "name": "awesome-agent-security",
+      "full": "123caiji/awesome-agent-security",
+      "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
+      "pushedAt": "2026-11-16T11:12:28Z",
+      "stars": 1,
       "lang": "JavaScript"
     },
     {
