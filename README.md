@@ -55,20 +55,57 @@
 
 <sub>上面三张卡片由本仓库的 <a href="./scripts/profile-stats.mjs">scripts/profile-stats.mjs</a> 每天用 GitHub API 现算现画（自绘 SVG，存仓库里，不依赖任何第三方图片服务，所以不会破图）；贡献格贪吃蛇由 <a href="https://github.com/Platane/snk">Platane/snk</a> 每天生成。卡片灵感来自 <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>。</sub>
 
-## 我在做什么
+## 四个方向
 
-- **DeepSeek Harness（DSH）插件**：[dsh-live](https://github.com/123caiji/dsh-live) 会话现场驾驶舱、[dsh-memory-toolkit](https://github.com/123caiji/dsh-memory-toolkit) Agent 长期记忆与知识图谱
-- **AI 安全 / 红队**：[security-research-toolkit](https://github.com/123caiji/security-research-toolkit)，以及精选索引 [awesome-agent-security](https://github.com/123caiji/awesome-agent-security)
-- **实时情报**：[ai-world](https://github.com/123caiji/ai-world) —— 61 个数据源每 165 分钟自动扫描的 AI 情报站，每条都带可核验来源
-- **学习与笔记**：[AI-LLM-Agent-Learning](https://github.com/123caiji/AI-LLM-Agent-Learning)（RAG / MCP / LangGraph / 提示工程）
-- **嵌入式折腾**：[stm32-iot-smart-home](https://github.com/123caiji/stm32-iot-smart-home)（STM32 + LoRa + FreeRTOS）
+> 仓库按方向归口，找东西先看这里。不在四轴里的是临时参考，不定期清。
 
-## 精选仓库
+### 🎯 狩猎 · Bug Hunting / 红队
 
-| 仓库 | 一句话 |
+| 仓库 | 说明 |
 | --- | --- |
-| [dsh-live](https://github.com/123caiji/dsh-live) | DSH 会话现场驾驶舱：现在在做什么、要不要人管、本轮花了多少 token |
-| [dsh-memory-toolkit](https://github.com/123caiji/dsh-memory-toolkit) | 给 Agent 加长期记忆：图记忆 + 向量检索 + token 优化 |
-| [ai-world](https://github.com/123caiji/ai-world) | AI 大世界：实时 AI 情报站，新闻 / 论文 / 新模型 / 涨星 / 插件 |
-| [awesome-agent-security](https://github.com/123caiji/awesome-agent-security) | AI Agent 安全与 DSH 生态精选清单（每天自动刷新） |
-| [security-research-toolkit](https://github.com/123caiji/security-research-toolkit) | Web 安全研究工具箱：侦察、SQLi / SSRF / XSS 验证 |
+| [security-research-toolkit](https://github.com/123caiji/security-research-toolkit) | **自建**：侦察 + SQLi / SSRF / XSS 验证取证 |
+| [cve-poc](https://github.com/123caiji/cve-poc) | 精选 CVE PoC（48 条：Full 8 / Partial 28 / No target 9 / Pending 3），每条钉死上游 commit 并附证据日志 |
+| [Claude-BugHunter](https://github.com/123caiji/Claude-BugHunter) | 82 skills / 15 slash commands / 681 条已披露报告模式，覆盖 24 类漏洞 |
+| [sapper-v2](https://github.com/123caiji/sapper-v2) | 自主渗透军团：指挥 agent + worker 集群 + 事实-意图图 |
+| [vero](https://github.com/123caiji/vero) | 证据驱动的自主红队 agent |
+| [chronos](https://github.com/123caiji/chronos) | 纯 Go 极简 agentic offensive security：0 skill / 0 RAG / 0 MCP |
+| [Bad-Guy](https://github.com/123caiji/Bad-Guy) | 结构化安全能力知识库 + Agent 可执行技能 |
+| [Code-Audit](https://github.com/123caiji/Code-Audit) | Java / PHP 白盒审计 skills，EVID 证据合约 |
+| [ARTEX-contrib](https://github.com/123caiji/ARTEX-contrib) | 多 agent 自主渗透，每条 finding 绑定资产与 HTTP 流量证据 |
+| [term3-lab](https://github.com/123caiji/term3-lab) | Web 攻防课程靶场（Python + SQLite，免 Docker） |
+| [CTF-MCP](https://github.com/123caiji/CTF-MCP) | 126 个 Web / Crypto / Pwn 工具的 MCP server |
+
+### 🔍 搜索 · 情报搜集 / OSINT
+
+| 仓库 | 说明 |
+| --- | --- |
+| [ai-world](https://github.com/123caiji/ai-world) | **自建**：61 个数据源 / 每 165 分钟一轮的自愈链情报站，每条带可核验来源 |
+| [Github-API-scan](https://github.com/123caiji/Github-API-scan) | 扫 GitHub 与本地 git 里泄漏的 AI API key（50+ 平台），配对 relay 并验证还能不能用 |
+
+> 这条轴最薄。下一步要补的是资产测绘 / 指纹识别 / 采集框架，不是再多几个扫描器。
+
+### 📡 IoT
+
+| 仓库 | 说明 |
+| --- | --- |
+| [stm32-iot-smart-home](https://github.com/123caiji/stm32-iot-smart-home) | **自建**：STM32F103 + LoRa + FreeRTOS，含电路图与 IoT 平台搭建笔记 |
+| [kangyang-digital-twin](https://github.com/123caiji/kangyang-digital-twin) | **自建**：数字孪生毕设，Vue + MQTT |
+
+> 缺口在固件与协议安全：固件解包、MQTT / CoAP 攻击面、设备影子越权。
+
+### 🤖 Agent · Agent 安全 & DSH 插件
+
+| 仓库 | 说明 |
+| --- | --- |
+| [dsh-live](https://github.com/123caiji/dsh-live) | **自建**：会话现场驾驶舱 |
+| [dsh-memory-toolkit](https://github.com/123caiji/dsh-memory-toolkit) | **自建**：Agent 长期记忆，图记忆 + 向量检索 + token 优化 |
+| [awesome-agent-security](https://github.com/123caiji/awesome-agent-security) | **自建**：Agent 安全 + DSH 生态精选，每日自动刷新 |
+| [AI-LLM-Agent-Learning](https://github.com/123caiji/AI-LLM-Agent-Learning) | **自建**：RAG / MCP / LangGraph / 提示工程 |
+| [AutoRedTeam-Orchestrator](https://github.com/123caiji/AutoRedTeam-Orchestrator) | 本地 MCP / AI 攻击面审计 + 证据门禁（★271） |
+| [catchclaw](https://github.com/123caiji/catchclaw) | 9 个 AI Agent 平台的安全评估，78 条 DAG 攻击链 |
+| [LLM-Security-Assessment-Framework](https://github.com/123caiji/LLM-Security-Assessment-Framework) | FORGEDAN：6 种攻击方法 / 18 个模型适配器 |
+| [coffee-skill](https://github.com/123caiji/coffee-skill) | Codex / AgentSkills 可验证工作流包 |
+
+## 参考（学习用，不常动）
+
+`anatomy` · `craft-anything` · `kb-graph` · `DeepInfer` · `deepseek-harness` · `magpie` · `dsh-recommend` · `rea` · `toolkit` · `manuals` · `teorias-numeradas` · `agens-harness`
