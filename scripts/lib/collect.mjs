@@ -62,7 +62,8 @@ export async function collectData ({ owner, token }) {
     avatar: user.avatar_url,
     followers: u ? u.followers.totalCount : user.followers,
     following: u ? u.following.totalCount : 0,
-    repos: u ? u.repositories.totalCount : user.public_repos,
+    // 用 REST 的 public_repos：GraphQL 的 repositories.totalCount 会把已删除仓库的残留索引也算进去（实测 53 vs REST 49）
+    repos: user.public_repos,
     stars: own.reduce((s, r) => s + r.stargazers_count, 0),
     forks: own.reduce((s, r) => s + r.forks_count, 0),
     commits7: c7,
