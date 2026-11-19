@@ -25,7 +25,7 @@
 | [awesome-agent-security](https://github.com/123caiji/awesome-agent-security) | AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions. | 今天 |
 | [kangyang-digital-twin](https://github.com/123caiji/kangyang-digital-twin) | kangyang-digital-twin graduation project | 7 天前 |
 
-<sub>公开仓库 53 个 · star 合计 22 · 关注者 5 · 近 7 天提交 103 次 · 近一年贡献 712 次</sub>
+<sub>公开仓库 53 个 · star 合计 22 · 关注者 5 · 近 7 天提交 104 次 · 近一年贡献 713 次</sub>
 
 <!-- STATS:END -->
 
