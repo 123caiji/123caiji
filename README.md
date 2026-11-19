@@ -1,6 +1,6 @@
 <h1 align="center">你好，我是 <a href="https://github.com/123caiji">123caiji</a></h1>
 <p align="center">
-  <em>AI Agent 工程 · 安全研究 · DeepSeek Harness 插件开发</em>
+  <em>安全 × AI Agent × IoT ｜ 狩猎 · 搜索 · 固件 · Agent</em>
 </p>
 
 <p align="center">
@@ -10,6 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=123caiji&style=flat-square&color=2f81f7" alt="profile views" />
 </p>
 
+<p align="center">
+  <sub>自建的东西在表格第一行，其余是上游项目的只读镜像 —— 每周自动追上游，别在这儿提 PR。</sub>
+</p>
 <!-- STATS:START -->
 
 **最近在更新**（2026-11-19 自动刷新）
@@ -57,14 +60,15 @@
 
 ## 四个方向
 
-> 仓库按方向归口，找东西先看这里。不在四轴里的是临时参考，不定期清。
+> 仓库按方向归口，找东西先看这里。**自建**排在最前，后面是上游镜像（fork，只读，每周 fast-forward）。文末有跨方向的「三条链路」。
 
 ### 🎯 狩猎 · Bug Hunting / 红队
 
-| 仓库 | 说明 |
+| 仓库 | 定位 |
 | --- | --- |
-| [security-research-toolkit](https://github.com/123caiji/security-research-toolkit) | **自建**：侦察 + SQLi / SSRF / XSS 验证取证 |
-| [cve-poc](https://github.com/123caiji/cve-poc) | 精选 CVE PoC（48 条：Full 8 / Partial 28 / No target 9 / Pending 3），每条钉死上游 commit 并附证据日志 |
+| [security-research-toolkit](https://github.com/123caiji/security-research-toolkit) | **自建** 侦察 + SQLi / SSRF / XSS 验证取证，结论落到 file:line |
+| [nuclei](https://github.com/123caiji/nuclei) | 上游 projectdiscovery ★33.1k · 模板化漏洞扫描引擎，狩猎的执行层 |
+| [cve-poc](https://github.com/123caiji/cve-poc) | 48 条 CVE：Full 8 / Partial 28 / No target 9 / Pending 3，每条钉死上游 commit 并附真终端证据 |
 | [Claude-BugHunter](https://github.com/123caiji/Claude-BugHunter) | 82 skills / 15 slash commands / 681 条已披露报告模式，覆盖 24 类漏洞 |
 | [sapper-v2](https://github.com/123caiji/sapper-v2) | 自主渗透军团：指挥 agent + worker 集群 + 事实-意图图 |
 | [vero](https://github.com/123caiji/vero) | 证据驱动的自主红队 agent |
@@ -77,35 +81,62 @@
 
 ### 🔍 搜索 · 情报搜集 / OSINT
 
-| 仓库 | 说明 |
+| 仓库 | 定位 |
 | --- | --- |
-| [ai-world](https://github.com/123caiji/ai-world) | **自建**：61 个数据源 / 每 165 分钟一轮的自愈链情报站，每条带可核验来源 |
+| [ai-world](https://github.com/123caiji/ai-world) | **自建** 61 个数据源 / 每 165 分钟一轮的自愈链情报站，每条带可核验来源 |
 | [Github-API-scan](https://github.com/123caiji/Github-API-scan) | 扫 GitHub 与本地 git 里泄漏的 AI API key（50+ 平台），配对 relay 并验证还能不能用 |
-
-> 这条轴最薄。下一步要补的是资产测绘 / 指纹识别 / 采集框架，不是再多几个扫描器。
+| [subfinder](https://github.com/123caiji/subfinder) | 上游 projectdiscovery ★14.8k · 被动子域枚举，采集入口第一步 |
+| [amass](https://github.com/123caiji/amass) | 上游 owasp-amass ★15.5k · 深度攻击面测绘与资产发现 |
 
 ### 📡 IoT
 
-| 仓库 | 说明 |
+| 仓库 | 定位 |
 | --- | --- |
-| [stm32-iot-smart-home](https://github.com/123caiji/stm32-iot-smart-home) | **自建**：STM32F103 + LoRa + FreeRTOS，含电路图与 IoT 平台搭建笔记 |
-| [kangyang-digital-twin](https://github.com/123caiji/kangyang-digital-twin) | **自建**：数字孪生毕设，Vue + MQTT |
-
-> 缺口在固件与协议安全：固件解包、MQTT / CoAP 攻击面、设备影子越权。
+| [stm32-iot-smart-home](https://github.com/123caiji/stm32-iot-smart-home) | **自建** STM32F103 + LoRa + FreeRTOS，含电路图与 IoT 平台搭建笔记 |
+| [kangyang-digital-twin](https://github.com/123caiji/kangyang-digital-twin) | **自建** 数字孪生毕设，Vue + MQTT |
+| [binwalk](https://github.com/123caiji/binwalk) | 上游 ReFirmLabs ★14.7k · 固件解包、镜像与签名识别 |
+| [firmware-analysis-toolkit](https://github.com/123caiji/firmware-analysis-toolkit) | 上游 attify ★1.6k · 固件二进制分析 + 污点追踪 + 仿真 |
+| [mqtt-pwn](https://github.com/123caiji/mqtt-pwn) | 上游 Akamai ★459 · IoT broker 渗透测试，MQTT 协议攻击面 |
 
 ### 🤖 Agent · Agent 安全 & DSH 插件
 
-| 仓库 | 说明 |
+| 仓库 | 定位 |
 | --- | --- |
-| [dsh-live](https://github.com/123caiji/dsh-live) | **自建**：会话现场驾驶舱 |
-| [dsh-memory-toolkit](https://github.com/123caiji/dsh-memory-toolkit) | **自建**：Agent 长期记忆，图记忆 + 向量检索 + token 优化 |
-| [awesome-agent-security](https://github.com/123caiji/awesome-agent-security) | **自建**：Agent 安全 + DSH 生态精选，每日自动刷新 |
-| [AI-LLM-Agent-Learning](https://github.com/123caiji/AI-LLM-Agent-Learning) | **自建**：RAG / MCP / LangGraph / 提示工程 |
-| [AutoRedTeam-Orchestrator](https://github.com/123caiji/AutoRedTeam-Orchestrator) | 本地 MCP / AI 攻击面审计 + 证据门禁（★271） |
+| [dsh-live](https://github.com/123caiji/dsh-live) | **自建** 会话现场驾驶舱：现在在跑什么、要不要人管、这轮花了多少 |
+| [dsh-memory-toolkit](https://github.com/123caiji/dsh-memory-toolkit) | **自建** Agent 长期记忆：图记忆 + 向量检索 + token 优化 |
+| [awesome-agent-security](https://github.com/123caiji/awesome-agent-security) | **自建** Agent 安全 + DSH 生态精选，每日自动刷新 |
+| [AI-LLM-Agent-Learning](https://github.com/123caiji/AI-LLM-Agent-Learning) | **自建** RAG / MCP / LangGraph / 提示工程 |
+| [hexstrike-ai](https://github.com/123caiji/hexstrike-ai) | 上游 0x4m4 ★13.7k · MCP server，让 AI agent 自主跑 150+ 安全工具 |
+| [AutoRedTeam-Orchestrator](https://github.com/123caiji/AutoRedTeam-Orchestrator) | 本地 MCP / AI 攻击面审计 + 证据门禁，同一步连续三次即停 |
 | [catchclaw](https://github.com/123caiji/catchclaw) | 9 个 AI Agent 平台的安全评估，78 条 DAG 攻击链 |
 | [LLM-Security-Assessment-Framework](https://github.com/123caiji/LLM-Security-Assessment-Framework) | FORGEDAN：6 种攻击方法 / 18 个模型适配器 |
 | [coffee-skill](https://github.com/123caiji/coffee-skill) | Codex / AgentSkills 可验证工作流包 |
+| [deepseek-harness](https://github.com/123caiji/deepseek-harness) | DeepSeek Harness 官方实现镜像 |
+| [magpie](https://github.com/123caiji/magpie) | 上游 yetone ★37k · 一个入口跑所有模型 |
+| [dsh-xiaolong20](https://github.com/123caiji/dsh-xiaolong20) | 🔒 私有：数字分身，人格档案 + 自我记忆 + 可运行 skill |
+
+## 三条链路
+
+把上面四个方向串起来，就是实际干活的三条流水线：
+
+```text
+狩猎  目标/域  →  subfinder  →  amass  →  nuclei  →  security-research-toolkit  →  带证据的 finding
+IoT   固件镜像  →  binwalk 解包  →  firmware-analysis-toolkit 仿真  →  mqtt-pwn 打 broker  →  设备影子 / 协议面
+Agent 模型/客户端  →  catchclaw · AutoRedTeam-Orchestrator  →  攻击链 + 证据门禁  →  修复建议
+```
+
+三条链路共用一条硬规则：**没有证据不算结论**。工具的 stdout 不是证据，能复现的输入输出才是。
 
 ## 参考（学习用，不常动）
 
-`anatomy` · `craft-anything` · `kb-graph` · `DeepInfer` · `deepseek-harness` · `magpie` · `dsh-recommend` · `rea` · `toolkit` · `manuals` · `teorias-numeradas` · `agens-harness`
+`anatomy` · `craft-anything` · `kb-graph` · `DeepInfer` · `rea` · `toolkit` · `manuals` · `teorias-numeradas` · `agens-harness`
+
+> `AgentRed`、`Hexstrike-ai-6.2` 的上游仓库已删除（孤儿 fork，无法再同步），仅作只读参考；同名能力的活跃版本见上面的 `hexstrike-ai`。
+
+## 这个页面怎么维护的
+
+| 东西 | 频率 | 机制 |
+| --- | --- | --- |
+| 上方统计表 / 三张卡片 / 贪吃蛇 | 每天 | `scripts/profile-stats.mjs` 用 GitHub API 现算现画，本地 SVG 不外链 |
+| fork 镜像 | 每周 | 逐个追上游 fast-forward，失败会在 `awesome-agent-security` 的体检 issue 里点名 |
+| 仓库体检（许可证 / 体积 / Wiki / 描述） | 每天 | `account-scan.yml` |
