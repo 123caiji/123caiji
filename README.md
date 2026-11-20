@@ -68,7 +68,7 @@
 | --- | --- |
 | [security-research-toolkit](https://github.com/123caiji/security-research-toolkit) | **自建** 侦察 + SQLi / SSRF / XSS 验证取证，结论落到 file:line |
 | [nuclei](https://github.com/123caiji/nuclei) | 上游 projectdiscovery ★33.1k · 模板化漏洞扫描引擎，狩猎的执行层 |
-| [cve-poc](https://github.com/123caiji/cve-poc) | 48 条 CVE：Full 8 / Partial 28 / No target 9 / Pending 3，每条钉死上游 commit 并附真终端证据 |
+| [cve-poc](https://github.com/123caiji/cve-poc) | 同步上游 cofflab：393 条 CVE（网络与安全 131 / Web 109 / 运行时 67 / OS 65 / AI 12 / DB 9），每条按复现状态标注：Full 8 · Partial 28 · No target 9 · Pending 348 |
 | [Claude-BugHunter](https://github.com/123caiji/Claude-BugHunter) | 82 skills / 15 slash commands / 681 条已披露报告模式，覆盖 24 类漏洞 |
 | [sapper-v2](https://github.com/123caiji/sapper-v2) | 自主渗透军团：指挥 agent + worker 集群 + 事实-意图图 |
 | [vero](https://github.com/123caiji/vero) | 证据驱动的自主红队 agent |
