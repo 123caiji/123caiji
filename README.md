@@ -13,11 +13,12 @@
 
 <!-- STATS:START -->
 
-<sub>公开仓库 49 个 · star 合计 22 · 关注者 5 · 近 7 天提交 107 次 · 近一年贡献 729 次</sub>
+<sub>公开仓库 49 个 · star 合计 22 · 关注者 5 · 近 7 天提交 111 次 · 近一年贡献 735 次 · 2026-11-20 刷新</sub>
 
 <!-- STATS:END -->
 
 <!-- CARDS:START -->
+
 <p align="center">
   <img src="./metrics-overview.svg" alt="账号总览" />
 </p>
@@ -29,6 +30,7 @@
 <p align="center">
   <img src="./metrics-activity.svg" alt="贡献热力图" />
 </p>
+
 <!-- CARDS:END -->
 
 <p align="center">
