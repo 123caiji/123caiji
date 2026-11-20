@@ -47,16 +47,14 @@ function replaceBlock (text, start, end, block) {
 }
 
 function statsBlock (data) {
-  const lines = [STATS.start, '', `**最近在更新**（${new Date().toISOString().slice(0, 10)} 自动刷新）`, '', '| 仓库 | 说明 | 最后更新 |', '| --- | --- | --- |']
-  for (const r of data.recent) {
-    const desc = (r.desc || '—').replace(/\|/g, '\\|')
-    lines.push(`| [${r.name}](https://github.com/${r.full}) | ${desc} | ${ago(r.pushedAt)} |`)
-  }
-  lines.push('')
   const nz = v => (v === null || v === undefined ? '—' : v)
-  lines.push(`<sub>公开仓库 ${nz(data.repos)} 个 · star 合计 ${nz(data.stars)} · 关注者 ${nz(data.followers)} · 近 7 天提交 ${nz(data.commits7)} 次 · 近一年贡献 ${nz(data.totalContributions)} 次</sub>`)
-  lines.push('', STATS.end)
-  return lines.join('\n')
+  return [
+    STATS.start,
+    '',
+    `<sub>公开仓库 ${nz(data.repos)} 个 · star 合计 ${nz(data.stars)} · 关注者 ${nz(data.followers)} · 近 7 天提交 ${nz(data.commits7)} 次 · 近一年贡献 ${nz(data.totalContributions)} 次 · ${new Date().toISOString().slice(0, 10)} 刷新</sub>`,
+    '',
+    STATS.end,
+  ].join('\n')
 }
 
 function cardsBlock () {
