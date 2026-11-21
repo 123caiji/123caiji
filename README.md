@@ -47,6 +47,7 @@
 
 | 仓库 | 说明 |
 | --- | --- |
+| [hunt-lab](https://github.com/123caiji/hunt-lab) | 每周自动跑授权靶场：只读侦察 + nuclei 安全模板，白名单硬门禁 |
 | [security-research-toolkit](https://github.com/123caiji/security-research-toolkit) | 侦察到取证，结论落到 file:line |
 | [cve-poc](https://github.com/123caiji/cve-poc) | 393 条公开 CVE PoC，每条标复现状态：Full 8 / Partial 28 / Pending 348 / No target 9 |
 | [nuclei](https://github.com/123caiji/nuclei) | projectdiscovery，模板化漏洞扫描 |
