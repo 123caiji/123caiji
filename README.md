@@ -94,7 +94,3 @@
 | [coffee-skill](https://github.com/123caiji/coffee-skill) | Codex / AgentSkills 的工作流包 |
 | [deepseek-harness](https://github.com/123caiji/deepseek-harness) | DeepSeek Harness 官方实现镜像 |
 | [magpie](https://github.com/123caiji/magpie) | 一个入口跑所有模型 |
-
-> 三条线的规矩一样：能复现的输入输出才算证据，工具的 stdout 不算。
-
-<sub>只读学习用的镜像：anatomy · craft-anything · kb-graph · DeepInfer · rea · toolkit · manuals · teorias-numeradas · agens-harness · AgentRed · Hexstrike-ai-6.2</sub>
