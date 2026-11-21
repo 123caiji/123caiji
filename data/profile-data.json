@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-21T03:21:34.712Z",
+  "generatedAt": "2026-11-21T12:34:05.133Z",
   "login": "123caiji",
   "name": "123caiji",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
   "followers": 5,
   "following": 7,
-  "repos": 49,
+  "repos": 50,
   "stars": 22,
   "forks": 1,
-  "commits7": 113,
-  "commits30": 504,
-  "totalContributions": 747,
-  "commitsYear": 688,
+  "commits7": 141,
+  "commits30": 535,
+  "totalContributions": 784,
+  "commitsYear": 724,
   "prsYear": 9,
   "issuesYear": 2,
   "calendar": {
@@ -1609,7 +1609,7 @@
         ],
         [
           "2026-11-21",
-          3
+          40
         ]
       ]
     ]
@@ -1617,59 +1617,67 @@
   "languages": [
     {
       "name": "JavaScript",
-      "pct": 33.34337983182958
+      "pct": 33.95870576516734
     },
     {
       "name": "Python",
-      "pct": 19.814771828518666
-    },
-    {
-      "name": "TypeScript",
-      "pct": 14.230542405277093
+      "pct": 18.399430983624473
     },
     {
       "name": "HTML",
-      "pct": 11.769188069923795
+      "pct": 15.074393000746497
+    },
+    {
+      "name": "TypeScript",
+      "pct": 13.214075090614443
     },
     {
       "name": "Rust",
-      "pct": 7.602270167738348
+      "pct": 7.059250870042752
     },
     {
       "name": "CSS",
-      "pct": 6.967541129134312
+      "pct": 6.469859619910433
     },
     {
       "name": "Vue",
-      "pct": 3.611175077486571
+      "pct": 3.353234000523244
     },
     {
       "name": "Shell",
-      "pct": 2.0367776035280425
+      "pct": 1.891293488990325
     }
   ],
   "recent": [
     {
+      "name": "ai-world",
+      "full": "123caiji/ai-world",
+      "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
+      "pushedAt": "2026-11-21T12:11:16Z",
+      "stars": 2,
+      "lang": "JavaScript"
+    },
+    {
       "name": "awesome-agent-security",
       "full": "123caiji/awesome-agent-security",
       "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
-      "pushedAt": "2026-11-21T01:32:30Z",
+      "pushedAt": "2026-11-21T10:57:57Z",
       "stars": 1,
       "lang": "JavaScript"
     },
     {
-      "name": "ai-world",
-      "full": "123caiji/ai-world",
-      "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-11-21T01:08:25Z",
-      "stars": 2,
+      "name": "hunt-lab",
+      "full": "123caiji/hunt-lab",
+      "desc": "白名单内的狩猎自动化：只打公开授权靶场（scanme/vulnweb），限速 + 非侵入模板，不扫自有资产。",
+      "pushedAt": "2026-11-21T07:18:43Z",
+      "stars": 0,
       "lang": "JavaScript"
     },
     {
       "name": "123caiji",
       "full": "123caiji/123caiji",
       "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
-      "pushedAt": "2026-11-20T19:30:29Z",
+      "pushedAt": "2026-11-21T06:50:11Z",
       "stars": 0,
       "lang": "JavaScript"
     },
@@ -1680,14 +1688,6 @@
       "pushedAt": "2026-11-20T09:24:55Z",
       "stars": 0,
       "lang": "TypeScript"
-    },
-    {
-      "name": "kangyang-digital-twin",
-      "full": "123caiji/kangyang-digital-twin",
-      "desc": "kangyang-digital-twin graduation project",
-      "pushedAt": "2026-11-12T06:31:20Z",
-      "stars": 1,
-      "lang": "Vue"
     }
   ]
 }
