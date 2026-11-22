@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-21T12:34:05.133Z",
+  "generatedAt": "2026-11-22T00:34:34.574Z",
   "login": "123caiji",
   "name": "123caiji",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
   "followers": 5,
   "following": 7,
-  "repos": 50,
+  "repos": 64,
   "stars": 22,
   "forks": 1,
-  "commits7": 141,
-  "commits30": 535,
-  "totalContributions": 784,
-  "commitsYear": 724,
+  "commits7": 142,
+  "commits30": 536,
+  "totalContributions": 803,
+  "commitsYear": 729,
   "prsYear": 9,
   "issuesYear": 2,
   "calendar": {
@@ -22,36 +22,6 @@
       "#216e39"
     ],
     "weeks": [
-      [
-        [
-          "2025-11-16",
-          0
-        ],
-        [
-          "2025-11-17",
-          6
-        ],
-        [
-          "2025-11-18",
-          0
-        ],
-        [
-          "2025-11-19",
-          0
-        ],
-        [
-          "2025-11-20",
-          0
-        ],
-        [
-          "2025-11-21",
-          0
-        ],
-        [
-          "2025-11-22",
-          0
-        ]
-      ],
       [
         [
           "2025-11-23",
@@ -1597,7 +1567,7 @@
         ],
         [
           "2026-11-18",
-          16
+          15
         ],
         [
           "2026-11-19",
@@ -1609,7 +1579,13 @@
         ],
         [
           "2026-11-21",
-          40
+          60
+        ]
+      ],
+      [
+        [
+          "2026-11-22",
+          0
         ]
       ]
     ]
@@ -1653,8 +1629,16 @@
       "name": "ai-world",
       "full": "123caiji/ai-world",
       "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-11-21T12:11:16Z",
+      "pushedAt": "2026-11-21T23:13:32Z",
       "stars": 2,
+      "lang": "JavaScript"
+    },
+    {
+      "name": "123caiji",
+      "full": "123caiji/123caiji",
+      "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
+      "pushedAt": "2026-11-21T18:34:48Z",
+      "stars": 0,
       "lang": "JavaScript"
     },
     {
@@ -1670,14 +1654,6 @@
       "full": "123caiji/hunt-lab",
       "desc": "白名单内的狩猎自动化：只打公开授权靶场（scanme/vulnweb），限速 + 非侵入模板，不扫自有资产。",
       "pushedAt": "2026-11-21T07:18:43Z",
-      "stars": 0,
-      "lang": "JavaScript"
-    },
-    {
-      "name": "123caiji",
-      "full": "123caiji/123caiji",
-      "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
-      "pushedAt": "2026-11-21T06:50:11Z",
       "stars": 0,
       "lang": "JavaScript"
     },
