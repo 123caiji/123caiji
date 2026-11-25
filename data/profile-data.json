@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-24T14:48:17.934Z",
+  "generatedAt": "2026-11-25T08:58:25.476Z",
   "login": "123caiji",
   "name": "123caiji",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
   "followers": 5,
   "following": 7,
-  "repos": 64,
-  "stars": 22,
+  "repos": 67,
+  "stars": 23,
   "forks": 1,
-  "commits7": 146,
-  "commits30": 545,
-  "totalContributions": 840,
-  "commitsYear": 766,
+  "commits7": 172,
+  "commits30": 564,
+  "totalContributions": 878,
+  "commitsYear": 801,
   "prsYear": 9,
   "issuesYear": 2,
   "calendar": {
@@ -1593,7 +1593,11 @@
         ],
         [
           "2026-11-24",
-          11
+          15
+        ],
+        [
+          "2026-11-25",
+          34
         ]
       ]
     ]
@@ -1601,60 +1605,68 @@
   "languages": [
     {
       "name": "JavaScript",
-      "pct": 33.95870576516734
+      "pct": 31.772409576614848
     },
     {
       "name": "Python",
-      "pct": 18.399430983624473
+      "pct": 17.172802251382844
     },
     {
       "name": "HTML",
-      "pct": 15.074393000746497
+      "pct": 14.069433467363398
     },
     {
       "name": "TypeScript",
-      "pct": 13.214075090614443
+      "pct": 12.333136751240149
     },
     {
       "name": "Rust",
-      "pct": 7.059250870042752
+      "pct": 6.588634145373236
+    },
+    {
+      "name": "C++",
+      "pct": 6.561223573453155
     },
     {
       "name": "CSS",
-      "pct": 6.469859619910433
+      "pct": 6.0385356452497385
     },
     {
       "name": "Vue",
-      "pct": 3.353234000523244
-    },
-    {
-      "name": "Shell",
-      "pct": 1.891293488990325
+      "pct": 3.129685067155028
     }
   ],
   "recent": [
     {
+      "name": "tama",
+      "full": "123caiji/tama",
+      "desc": "Tama · Windows 桌面猫：键帽气泡 + DSH 状态联动 + 数据驱动皮肤（单文件原生 / 零依赖 / 离线）",
+      "pushedAt": "2026-11-25T07:38:47Z",
+      "stars": 1,
+      "lang": "C++"
+    },
+    {
       "name": "ai-world",
       "full": "123caiji/ai-world",
       "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-11-24T14:45:37Z",
+      "pushedAt": "2026-11-25T07:22:08Z",
       "stars": 2,
-      "lang": "JavaScript"
-    },
-    {
-      "name": "awesome-agent-security",
-      "full": "123caiji/awesome-agent-security",
-      "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
-      "pushedAt": "2026-11-24T13:39:26Z",
-      "stars": 1,
       "lang": "JavaScript"
     },
     {
       "name": "123caiji",
       "full": "123caiji/123caiji",
       "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
-      "pushedAt": "2026-11-24T07:56:21Z",
+      "pushedAt": "2026-11-25T06:33:12Z",
       "stars": 0,
+      "lang": "JavaScript"
+    },
+    {
+      "name": "awesome-agent-security",
+      "full": "123caiji/awesome-agent-security",
+      "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
+      "pushedAt": "2026-11-25T02:25:17Z",
+      "stars": 1,
       "lang": "JavaScript"
     },
     {
@@ -1664,14 +1676,6 @@
       "pushedAt": "2026-11-23T01:13:04Z",
       "stars": 0,
       "lang": "JavaScript"
-    },
-    {
-      "name": "rea",
-      "full": "123caiji/rea",
-      "desc": "Mirror of morluto/rea",
-      "pushedAt": "2026-11-20T09:24:55Z",
-      "stars": 0,
-      "lang": "TypeScript"
     }
   ]
 }
