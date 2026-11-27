@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T05:14:39.006Z",
+  "generatedAt": "2026-11-27T13:47:31.291Z",
   "login": "123caiji",
   "name": "123caiji",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
@@ -8,10 +8,10 @@
   "repos": 67,
   "stars": 24,
   "forks": 1,
-  "commits7": 168,
-  "commits30": 569,
-  "totalContributions": 909,
-  "commitsYear": 832,
+  "commits7": 175,
+  "commits30": 579,
+  "totalContributions": 926,
+  "commitsYear": 849,
   "prsYear": 9,
   "issuesYear": 2,
   "calendar": {
@@ -1605,7 +1605,7 @@
         ],
         [
           "2026-11-27",
-          4
+          21
         ]
       ]
     ]
@@ -1613,19 +1613,19 @@
   "languages": [
     {
       "name": "JavaScript",
-      "pct": 31.791178002303898
+      "pct": 31.78532382558114
     },
     {
       "name": "Python",
-      "pct": 17.172802251382848
+      "pct": 17.172802251382844
     },
     {
       "name": "HTML",
-      "pct": 14.065783636031789
+      "pct": 14.065783636031787
     },
     {
       "name": "TypeScript",
-      "pct": 12.33313675124015
+      "pct": 12.333136751240149
     },
     {
       "name": "Rust",
@@ -1633,24 +1633,48 @@
     },
     {
       "name": "C++",
-      "pct": 6.561223573453155
+      "pct": 6.569287155049833
     },
     {
       "name": "CSS",
-      "pct": 6.023417050892298
+      "pct": 6.023417050892297
     },
     {
       "name": "Vue",
-      "pct": 3.129685067155029
+      "pct": 3.129685067155028
     }
   ],
   "recent": [
     {
+      "name": "awesome-agent-security",
+      "full": "123caiji/awesome-agent-security",
+      "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
+      "pushedAt": "2026-11-27T12:13:25Z",
+      "stars": 1,
+      "lang": "JavaScript"
+    },
+    {
       "name": "ai-world",
       "full": "123caiji/ai-world",
       "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-11-27T03:39:01Z",
+      "pushedAt": "2026-11-27T11:56:01Z",
       "stars": 2,
+      "lang": "JavaScript"
+    },
+    {
+      "name": "tama",
+      "full": "123caiji/tama",
+      "desc": "Tama · Windows 桌面猫：键帽气泡 + DSH 状态联动 + 数据驱动皮肤（单文件原生 / 零依赖 / 离线）",
+      "pushedAt": "2026-11-27T09:25:33Z",
+      "stars": 1,
+      "lang": "C++"
+    },
+    {
+      "name": "123caiji",
+      "full": "123caiji/123caiji",
+      "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
+      "pushedAt": "2026-11-27T06:13:42Z",
+      "stars": 0,
       "lang": "JavaScript"
     },
     {
@@ -1660,30 +1684,6 @@
       "pushedAt": "2026-11-27T03:32:26Z",
       "stars": 0,
       "lang": "TypeScript"
-    },
-    {
-      "name": "123caiji",
-      "full": "123caiji/123caiji",
-      "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
-      "pushedAt": "2026-11-27T03:31:43Z",
-      "stars": 0,
-      "lang": "JavaScript"
-    },
-    {
-      "name": "awesome-agent-security",
-      "full": "123caiji/awesome-agent-security",
-      "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
-      "pushedAt": "2026-11-26T12:27:44Z",
-      "stars": 1,
-      "lang": "JavaScript"
-    },
-    {
-      "name": "tama",
-      "full": "123caiji/tama",
-      "desc": "Tama · Windows 桌面猫：键帽气泡 + DSH 状态联动 + 数据驱动皮肤（单文件原生 / 零依赖 / 离线）",
-      "pushedAt": "2026-11-25T07:38:47Z",
-      "stars": 1,
-      "lang": "C++"
     }
   ]
 }
