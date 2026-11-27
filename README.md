@@ -49,13 +49,13 @@
 | --- | --- |
 | [hunt-lab](https://github.com/123caiji/hunt-lab) | 每周自动跑授权靶场：只读侦察 + nuclei 安全模板，白名单硬门禁 |
 | [security-research-toolkit](https://github.com/123caiji/security-research-toolkit) | 侦察到取证，结论落到 file:line |
-| [cve-poc](https://github.com/123caiji/cve-poc) | 393 条公开 CVE PoC，每条标复现状态：Full 8 / Partial 28 / Pending 348 / No target 9 |
+| [cve-poc](https://github.com/123caiji/cve-poc) | 728 条公开 CVE PoC，分 Web / CMS、网络与安全、运行时、系统、AI-LLM、数据库 六个区，每条带 meta.yaml 与来源审查状态 |
 | [nuclei](https://github.com/123caiji/nuclei) | projectdiscovery，模板化漏洞扫描 |
 | [Claude-BugHunter](https://github.com/123caiji/Claude-BugHunter) | 82 个 skill、15 个 slash command、681 条已披露报告模式 |
 | [sapper-v2](https://github.com/123caiji/sapper-v2) | 多 agent 自主渗透，事实-意图图 |
 | [vero](https://github.com/123caiji/vero) | 证据驱动的红队 agent |
 | [chronos](https://github.com/123caiji/chronos) | Go 写的极简 offensive agent，不用 skill / RAG / MCP |
-| [ARTEX-contrib](https://github.com/123caiji/ARTEX-contrib) | 多 agent 渗透，每条 finding 绑资产和 HTTP 流量 |
+| [ARTEX](https://github.com/123caiji/ARTEX) | AI 自主渗透框架（BaaRai/ARTEX 英译版），多 agent，每条 finding 绑资产和 HTTP 流量 |
 | [Bad-Guy](https://github.com/123caiji/Bad-Guy) | 安全能力知识库，可被 agent 直接调 |
 | [Code-Audit](https://github.com/123caiji/Code-Audit) | Java / PHP 白盒审计 skills |
 | [term3-lab](https://github.com/123caiji/term3-lab) | Web 攻防靶场，不需要 Docker |
@@ -95,3 +95,11 @@
 | [coffee-skill](https://github.com/123caiji/coffee-skill) | Codex / AgentSkills 的工作流包 |
 | [deepseek-harness](https://github.com/123caiji/deepseek-harness) | DeepSeek Harness 官方实现镜像 |
 | [magpie](https://github.com/123caiji/magpie) | 一个入口跑所有模型 |
+
+### 桌面
+
+| 仓库 | 说明 |
+| --- | --- |
+| [tama](https://github.com/123caiji/tama) | Windows 桌面猫：键帽气泡 + DSH 状态联动，单文件原生零依赖 |
+| [kurocat-qianyiai](https://github.com/123caiji/kurocat-qianyiai) | Tauri 桌面打字猫，6 款猫 + 大肥鱼，输密码防偷窥 |
+| [KuroCat-chanke17](https://github.com/123caiji/KuroCat-chanke17) | 原生 C++ 桌面猫，全状态键鼠捕获 + 2.5D 头部追踪 |
