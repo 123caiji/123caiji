@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:10:39.253Z",
+  "generatedAt": "2026-11-28T12:55:22.703Z",
   "login": "123caiji",
   "name": "123caiji",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
@@ -8,10 +8,10 @@
   "repos": 67,
   "stars": 24,
   "forks": 1,
-  "commits7": 176,
-  "commits30": 580,
-  "totalContributions": 931,
-  "commitsYear": 854,
+  "commits7": 149,
+  "commits30": 572,
+  "totalContributions": 945,
+  "commitsYear": 868,
   "prsYear": 9,
   "issuesYear": 2,
   "calendar": {
@@ -1609,7 +1609,7 @@
         ],
         [
           "2026-11-28",
-          0
+          14
         ]
       ]
     ]
@@ -1617,7 +1617,7 @@
   "languages": [
     {
       "name": "JavaScript",
-      "pct": 31.78532382558114
+      "pct": 31.780596947521694
     },
     {
       "name": "Python",
@@ -1637,7 +1637,7 @@
     },
     {
       "name": "C++",
-      "pct": 6.569287155049833
+      "pct": 6.576301673028596
     },
     {
       "name": "CSS",
@@ -1653,23 +1653,15 @@
       "name": "ai-world",
       "full": "123caiji/ai-world",
       "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-11-27T22:59:43Z",
+      "pushedAt": "2026-11-28T12:49:43Z",
       "stars": 2,
-      "lang": "JavaScript"
-    },
-    {
-      "name": "123caiji",
-      "full": "123caiji/123caiji",
-      "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
-      "pushedAt": "2026-11-27T20:34:22Z",
-      "stars": 0,
       "lang": "JavaScript"
     },
     {
       "name": "awesome-agent-security",
       "full": "123caiji/awesome-agent-security",
       "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
-      "pushedAt": "2026-11-27T12:13:25Z",
+      "pushedAt": "2026-11-28T11:41:30Z",
       "stars": 1,
       "lang": "JavaScript"
     },
@@ -1677,9 +1669,17 @@
       "name": "tama",
       "full": "123caiji/tama",
       "desc": "Tama · Windows 桌面猫：键帽气泡 + DSH 状态联动 + 数据驱动皮肤（单文件原生 / 零依赖 / 离线）",
-      "pushedAt": "2026-11-27T09:25:33Z",
+      "pushedAt": "2026-11-28T08:52:42Z",
       "stars": 1,
       "lang": "C++"
+    },
+    {
+      "name": "123caiji",
+      "full": "123caiji/123caiji",
+      "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
+      "pushedAt": "2026-11-28T05:53:11Z",
+      "stars": 0,
+      "lang": "JavaScript"
     },
     {
       "name": "rea",
