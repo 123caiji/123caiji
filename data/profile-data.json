@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T13:47:31.291Z",
+  "generatedAt": "2026-11-28T00:10:39.253Z",
   "login": "123caiji",
   "name": "123caiji",
   "avatar": "https://avatars.githubusercontent.com/u/166346449?v=4",
@@ -8,10 +8,10 @@
   "repos": 67,
   "stars": 24,
   "forks": 1,
-  "commits7": 175,
-  "commits30": 579,
-  "totalContributions": 926,
-  "commitsYear": 849,
+  "commits7": 176,
+  "commits30": 580,
+  "totalContributions": 931,
+  "commitsYear": 854,
   "prsYear": 9,
   "issuesYear": 2,
   "calendar": {
@@ -1605,7 +1605,11 @@
         ],
         [
           "2026-11-27",
-          21
+          26
+        ],
+        [
+          "2026-11-28",
+          0
         ]
       ]
     ]
@@ -1646,19 +1650,27 @@
   ],
   "recent": [
     {
+      "name": "ai-world",
+      "full": "123caiji/ai-world",
+      "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
+      "pushedAt": "2026-11-27T22:59:43Z",
+      "stars": 2,
+      "lang": "JavaScript"
+    },
+    {
+      "name": "123caiji",
+      "full": "123caiji/123caiji",
+      "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
+      "pushedAt": "2026-11-27T20:34:22Z",
+      "stars": 0,
+      "lang": "JavaScript"
+    },
+    {
       "name": "awesome-agent-security",
       "full": "123caiji/awesome-agent-security",
       "desc": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
       "pushedAt": "2026-11-27T12:13:25Z",
       "stars": 1,
-      "lang": "JavaScript"
-    },
-    {
-      "name": "ai-world",
-      "full": "123caiji/ai-world",
-      "desc": "AI 大世界 · 实时 AI 情报站：新闻/论文/新模型/GitHub 涨星/DSH 插件，61 个数据源每 165 分钟自动扫描（自愈链，无需人管），每条都带可核验来源",
-      "pushedAt": "2026-11-27T11:56:01Z",
-      "stars": 2,
       "lang": "JavaScript"
     },
     {
@@ -1668,14 +1680,6 @@
       "pushedAt": "2026-11-27T09:25:33Z",
       "stars": 1,
       "lang": "C++"
-    },
-    {
-      "name": "123caiji",
-      "full": "123caiji/123caiji",
-      "desc": "GitHub profile README with live stats and an auto-generated contribution snake.",
-      "pushedAt": "2026-11-27T06:13:42Z",
-      "stars": 0,
-      "lang": "JavaScript"
     },
     {
       "name": "rea",
